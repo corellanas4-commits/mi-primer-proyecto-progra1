@@ -22,3 +22,9 @@ El objetivo es practicar el uso de Git y GitHub, incluyendo:
 
 Nombre del estudiante: Carlos José Orellana Samayoa
 
+
+
+**Trabajo realizado en mi rama personal.**
+
+**Aquí practiqué la creación y fusión de ramas en Git.**
+
