@@ -7,5 +7,5 @@ ii. ¿Cómo fue la experiencia de trabajar en pareja? ¿Encontraste algún confl
 En esta práctica trabajé individualmente. No hubo conflictos, pero aprendí que si trabajara en pareja, los conflictos podrían aparecer si ambos editamos la misma línea, y se resolverían manualmente haciendo commit después de ajustar el archivo.
 
 iii. ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
-Git permite mantener un historial completo de cambios, colaborar con otras personas sin perder información, revertir errores fácilmente y manejar varias versiones del mismo proyecto de forma organizada.
+Git me permite mantener un historial completo de cambios, colaborar con otras personas sin perder información, revertir errores fácilmente y manejar varias versiones del mismo proyecto de forma organizada.
 
