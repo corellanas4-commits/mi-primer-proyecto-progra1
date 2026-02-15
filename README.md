@@ -1,14 +1,22 @@
-# mi-primer-proyecto-progra1
+**Mi Primer Proyecto - Tarea Programación 2**
 
-Tarea programación 2
 
- 
 
-Este proyecto fue creado como parte de la Tarea 2 del curso.
+Este proyecto fue creado como parte de la Tarea 2 del curso de Programación 1.
 
-El objetivo es practicar el uso de Git y GitHub, incluyendo la clonación
 
-de repositorios y el trabajo colaborativo.
+
+El objetivo es practicar el uso de Git y GitHub, incluyendo:
+
+\- Clonación de repositorios
+
+\- Creación y modificación de archivos
+
+\- Uso de commits
+
+\- Trabajo con ramas
+
+\- Fusión (merge) de cambios
 
 
 
